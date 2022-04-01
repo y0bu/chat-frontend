@@ -1,0 +1,17 @@
+.usermessages {
+    max-width: 100%;
+    width: max-content;
+    margin-top: 10px;
+    background-color: #98FB98;
+}
+
+.othersmessages {
+    max-width: 100%;
+    width: max-content;
+    margin-top: 10px;
+    background-color: #87CEFA;
+}
+
+.trashbtn {
+    padding: .01rem .01rem;
+}

@@ -1,0 +1,7 @@
+.messagebar {
+    position: fixed;
+    bottom: 10%;
+    background-color: white;
+    padding: 10px;
+    width: 73%;
+}
